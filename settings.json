@@ -1,0 +1,135 @@
+{
+    "editor.wordWrap": "on",
+      "files.autoSave": "off",
+      "explorer.confirmDelete": false,
+      "editor.fontFamily": "Fira Code",
+      "editor.fontLigatures": true,
+      "workbench.preferredHighContrastColorTheme": "Default Dark+",
+      "workbench.preferredLightColorTheme": "Default Dark+",
+      "workbench.editor.autoLockGroups": {
+        "imagePreview.previewEditor": true,
+        "vscode.markdown.preview.editor": true,
+        "mainThreadWebview-markdown.preview": true
+      },
+      "workbench.colorTheme": "Webstorm IntelliJ Darcula Theme",
+      "terminal.integrated.fontSize": 16,
+      "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+      "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
+      "markdown-preview-enhanced.breakOnSingleNewLine": false,
+      "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+      "typescript.updateImportsOnFileMove.enabled": "always",
+      "editor.unicodeHighlight.ambiguousCharacters": false,
+      "npm.enableRunFromFolder": true,
+      "editor.unicodeHighlight.nonBasicASCII": false,
+      "editor.linkedEditing": true,
+      "workbench.startupEditor": "none",
+      // The number of spaces a tab is equal to. This setting is overridden
+      // based on the file contents when `editor.detectIndentation` is true.
+      "editor.tabSize": 2,
+  
+      // Insert spaces when pressing Tab. This setting is overriden
+      // based on the file contents when `editor.detectIndentation` is true.
+      "editor.insertSpaces": true,
+  
+      // When opening a file, `editor.tabSize` and `editor.insertSpaces`
+      // will be detected based on the file contents. Set to false to keep
+      // the values you've explicitly set, above.
+      "editor.detectIndentation": false,
+      "liveServer.settings.donotVerifyTags": true,
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "debug.console.fontSize": 15,
+      "scm.inputFontSize": 14,
+      "json.schemas": [],
+      "css.validate": false,
+      "less.validate": false,
+      "scss.validate": false,
+      "[css]": {
+        "editor.defaultFormatter": "stylelint.vscode-stylelint"
+      },
+      "gitlens.codeLens.enabled": false,
+      "gitlens.statusBar.enabled": false,
+      "gitlens.currentLine.pullRequests.enabled": false,
+      "workbench.colorCustomizations": {
+        "terminal.background":"#2c2f31",
+        "terminal.foreground":"#d2d2d2",
+        "terminalCursor.background":"#4349f1",
+        "terminalCursor.foreground":"#aaff00",
+        "terminal.ansiBlack":"#535353",
+        "terminal.ansiBlue":"#0026ff",
+        "terminal.ansiBrightBlack":"#000000",
+        "terminal.ansiBrightBlue":"#f1882b",
+        "terminal.ansiBrightCyan":"#00ffe5",
+        "terminal.ansiBrightGreen":"#be1cfd",
+        "terminal.ansiBrightMagenta":"#d400ff",
+        "terminal.ansiBrightRed":"#ed0000",
+        "terminal.ansiBrightWhite":"#ffffff",
+        "terminal.ansiBrightYellow":"#fffc3c",
+        "terminal.ansiCyan":"#00f194",
+        "terminal.ansiGreen":"#66bf45",
+        "terminal.ansiMagenta":"#510b62",
+        "terminal.ansiRed":"#ff1e00",
+        "terminal.ansiWhite":"#9bc9c8",
+        "terminal.ansiYellow":"#ffe100"
+      },
+      "npm.keybindingsChangedWarningShown": true,
+      // Превью предложения
+      "editor.suggest.preview": true,
+      "files.associations": {
+        "*.tpl": "smarty",
+        "*.ts": "typescript",
+        "*.css": "css",
+        "*.tsx": "typescriptreact"
+      },
+      "diffEditor.ignoreTrimWhitespace": false,
+      "explorer.confirmDragAndDrop": false,
+      "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+      },
+      "liveServer.settings.donotShowInfoMsg": true,
+      "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+      },
+      "window.zoomLevel": 2,
+      "smarty.highlightColor": {
+  
+        "dark": "#FFFFFF25",
+        "light": "#FFFA0040"
+      },
+      "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "svelte.plugin.svelte.note-new-transformation": false,
+      "svelte.enable-ts-plugin": true,
+      "editor.inlineSuggest.enabled": true,
+  
+      "background.useDefault": false,
+      "background.fullscreen": {
+
+
+        "image": [
+          "file:///home/user/Desktop/vscode_wallp/14.png",
+          // "file:///home/user/Desktop/vscode_wallp/8.png",
+          // "file:///home/user/Desktop/vscode_wallp/11.png",
+          // "file:///home/user/Desktop/vscode_wallp/5.png",
+          // "file:///home/user/Desktop/vscode_wallp/6.png",
+          // "file:///home/user/Desktop/vscode_wallp/7.jpg",
+          // "file:///home/user/Desktop/vscode_wallp/ds.jpeg",
+          // "file:///home/user/Desktop/vscode_wallp/9.png",
+          // "file:///home/user/Desktop/vscode_wallp/10.png",
+          // "file:///home/user/Desktop/vscode_wallp/ds2.jpeg",
+          // "file:///home/user/Desktop/vscode_wallp/12.png",
+      ],
+        "opacity": 0.90, // 0.85 ~ 0.95 recommended
+        "size": "cover", // also css, `cover` to self-adaption (recommended)，or `contain`、`200px 200px`
+        "interval": 999 // seconds of interval for carousel, default `0` to disabled.
+      },
+      "background.styles": [
+
+        {},
+        {},
+        {}
+      ]
+  }
